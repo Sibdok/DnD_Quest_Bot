@@ -2,8 +2,8 @@
 Здесь всего одна комманда - /start.
 Всё управление ботом происходит с помощью кнопок.
 
-Ссылка на фотки - https://disk.yandex.ru/d/y63zg2L4OH1aEA
+Чтобы использовать бота нужно в файле info.py в переменной TOKEN указать токен для бота
 
-Ссылка на бота в тг - https://t.me/dnd_quest_bot_bot
+Ссылка на фотки - https://disk.yandex.ru/d/y63zg2L4OH1aEA
 
 Ссылка на репозиторий в GitHub - https://github.com/Sibdok/DnD_quest
